@@ -99,7 +99,7 @@ int main()
     task1(s);
     printf("\n slova ne sovpadayushie s poslednym\n");
     char* last=task2(s1);
-    printf("\n slova u kotoryh ptrvaya bukva vstrechaetsa v slove bolche odnogo raza(zadanie3)\n");
+    printf("\n slova u kotoryh pervaya bukva vstrechaetsa v slove bolche odnogo raza(zadanie3)\n");
     task3(s2,last);
     return 0;
 }
