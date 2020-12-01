@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1606821422 source:c:\users\user\desktop\task10\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<inttypes.h>
-
